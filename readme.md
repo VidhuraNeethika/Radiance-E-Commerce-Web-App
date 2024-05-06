@@ -144,10 +144,10 @@ Hibernate configuration file used to set up the configuration for a Hibernate se
 
 Explanation of the key elements in the code and their usages:
 
-1. **<hibernate-configuration>**:
+1. `<hibernate-configuration>`:
    - This is the root element that encapsulates the Hibernate configuration settings.
 
-2. **<session-factory>**:
+2. `<session-factory>`:
    - Contains the configuration properties and mappings for the Hibernate session factory.
 
 3. **Properties**:
