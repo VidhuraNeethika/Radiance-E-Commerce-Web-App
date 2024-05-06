@@ -47,8 +47,8 @@
             <artifactId>jakarta.servlet-api</artifactId>
             <version>6.0.0</version>
             <scope>provided</scope>
-            <!-- scope eken provide krn dependency eka use krnna -->
         </dependency>
+        <!--provided scope means that the dependency is required to compile, test, and run the project, but it will not be included in the final package.-->
         <!--Servlets-->
 
         <!--Jersey-->
