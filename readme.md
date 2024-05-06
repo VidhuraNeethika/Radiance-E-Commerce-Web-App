@@ -54,7 +54,7 @@ Here is an explanation of the key components in the code:
 1. **XML Declaration**:
     - Specifies the version and encoding of the XML document.
 
-2. **Root Element  `<web-app>` **:
+2. **Root Element  `<web-app>`**:
     - Defines the configuration for the web application.
     - Namespaces and schema locations are specified for Java EE.
 
