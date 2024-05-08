@@ -7,7 +7,7 @@ import org.glassfish.jersey.server.mvc.jsp.JspMvcFeature;
 public class AppConfig extends ResourceConfig {
 
     public AppConfig(){
-        packages("com.apx.radiance.controller");
+        packages("com.apx.radiance.controller"); // package to scan for resources
         packages("com.apx.radiance.middleware");
 
         register(JspMvcFeature.class);
