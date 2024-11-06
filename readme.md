@@ -1,3 +1,38 @@
+# E-Commerce Web Application
+
+## Overview
+
+This e-commerce web application is designed to provide a seamless and enjoyable shopping experience with a range of features that support both user interaction and backend management. Built for versatility, it supports all stages of online shopping, from browsing through to checkout, and is optimized for responsiveness and security.
+
+## Features
+
+- **User-Friendly Navigation**: Simple and intuitive navigation structure for ease of use.
+- **Responsive Design**: Fully responsive to ensure a consistent experience across all device types.
+- **Robust Functionality**: Supports various e-commerce needs while maintaining efficient performance.
+- **Seamless Shopping Experience**: Smooth transitions from product search to checkout, enhancing the user experience.
+- **Secure Checkout**: Provides secure transactions with data encryption for user protection.
+- **User Authentication**: Secure login and signup process to protect user information.
+- **Product Catalog**: Well-organized catalog for easy browsing of products.
+- **Order Management**: Includes full-featured order tracking and order history.
+- **Cart Management & Wishlist**: Allows users to manage items in their shopping cart and save favorite items to a wishlist.
+- **Admin Panel**: Features an admin panel for managing products, users, and orders.
+
+## Technologies
+
+- **Frontend**: HTML, CSS, Bootstrap for creating responsive and visually appealing user interfaces.
+- **Backend**: Java, MySQL, and Hibernate for handling data management and business logic.
+- **Architecture**: Follows the MVC (Model-View-Controller) architecture to separate concerns and improve code maintainability.
+- **Java Technologies**: Uses JSP and JSTL for dynamic web content and server-side programming.
+- **Security**: Incorporates data encryption to ensure secure handling of user data.
+
+## Installation
+
+### Clone the Repository
+```bash
+git clone https://github.com/VidhuraNeethika/Radiance-E-Commerce-Web-App.git
+cd Radiance-E-Commerce-Web-App
+```
+
 # Quick Explanation about Key Components in this Web Application
 
 ## Dependencies (pom.xml):
