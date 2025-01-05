@@ -19,7 +19,7 @@ public class ContextListener implements ServletContextListener {
 
         context.setAttribute("App", new AppUtil(context));
 
-        Env.getProperties().put("app_url","http://localhost:8080"+context.getContextPath());
+        Env.getProperties().put("app_url", "http://localhost:8080" + context.getContextPath());
         MailServiceProvider.getInstance().start();
 
         System.out.println("ContextListener : Running...");
